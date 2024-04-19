@@ -21,3 +21,31 @@
       gets_older(years):  Method to increase the person's age by the specified number of years and print their updated age.
       
       ishairy():  Method to print whether the person has a beard or not.
+
+# Readme for Activity2 file
+
+* Cat Class:
+  - Attributes:
+    
+            name: Name of the cat.
+    
+            age: Age of the cat.
+  - Methods:
+    
+            sound(): Method to make the cat produce a sound (currently set to "Meow").
+    
+            displayinfo(): Method to display the cat's name and age.
+
+* DomesticCat Subclass:
+  
+  - Attributes:
+    
+            Inherits name and age attributes from the cat class.
+    
+            owner: Owner of the domestic cat.
+    
+            homeaddress: Address where the domestic cat resides.
+    
+* Methods:
+  
+            Inherits sound() and displayinfo() methods from the cat class.
