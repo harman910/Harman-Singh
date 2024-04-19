@@ -81,3 +81,20 @@
      - Floor Division:
        
                   Performs integer division, discarding any fractional remainder.
+
+
+  # Readme for dictionary file
+
+* Features:
+  
+      - Add Contact:
+  
+                  Prompt the user to enter the name, phone number, and email address.
+  
+                  Store the contact information in a formatted string.
+  
+                  Append the contact string to the contacts list.
+  
+     - Display Contacts:
+       
+                  Print the updated contact list, showing each contact's name, phone number, and email address.
