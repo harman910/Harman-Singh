@@ -19,5 +19,5 @@ class DomesticCat(cat):
 cat1 = DomesticCat('Simu', 20 , 'dhesi chai','takanini')
 cat1.displayinfo()
 
-# class WildCat(Cat):
+
      
