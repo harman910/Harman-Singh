@@ -147,3 +147,36 @@
             If a is less than b, it prints "wow".
         
             Otherwise, it prints "false".
+
+        
+# Readme for if_else2 file
+
+* Features:
+  
+  - Height Check:
+
+            Prompt the visitor to input their height in centimeters.
+  
+            If the height is 120 cm or taller, continue with ticket pricing. Otherwise, inform the visitor they are too small.
+  
+  - Ticket Pricing:
+
+            Display the pricing options for different age groups: child, youth, and adult.
+  
+            Calculate the ticket price based on the visitor's age:
+  
+            Children under 12: $5
+  
+            Youth aged 12 to 18: $7
+  
+            Adults over 18: $12
+  
+   - Optional Photo:
+
+            Offer the visitor the option to take a photo for an additional $5.
+  
+            Add the photo fee to the final bill if the visitor chooses to have a photo taken.
+  
+    - Output:
+  
+            Print the final bill amount, including any additional fees for photos.
