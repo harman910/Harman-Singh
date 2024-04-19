@@ -180,3 +180,45 @@
     - Output:
   
             Print the final bill amount, including any additional fees for photos.
+
+# Readme for print file
+
+* Features:
+  
+  - String Declarations:
+  
+            Declare two strings fname and lname using single and double quotes.
+  
+            Print the types of the strings using the type() function.
+  
+   - String Slicing:
+  
+            Slice a portion of the fname string using index slicing.
+  
+            Access a character from the end of the fname string using negative indexing.
+  
+    - Length Calculation:
+  
+            Calculate the length of the fname string using the len() function.
+  
+     - Case Conversion:
+  
+            Convert the fname string to uppercase and lowercase using the upper() and lower() methods, respectively.
+  
+            Check if the fname string is in lowercase using the islower() method.
+  
+     - String Comparison:
+  
+            Compare strings str1, str2, and str3 using the equality operator.
+  
+     - String Counting:
+  
+            Count the occurrences of the substring "IS" in the st string after converting it to uppercase.
+  
+     - Finding Substrings:
+  
+            Find the index of the first occurrence of the substring "is" in the st string using the find() method.
+  
+     - String Replacement:
+  
+            Replace all occurrences of the substring "is" with "or" in the st string using the replace() method.
