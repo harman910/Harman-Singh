@@ -117,3 +117,19 @@
      -  Output:
             
            Print a message indicating whether the number is odd or even.
+
+# Readme for formula file 
+
+     * Features:
+      
+            - Input:
+      
+                   Prompt the user to enter the base and height of the triangle.
+      
+           - Area Calculation:
+      
+                 - Calculate the area of the triangle using the formula:  Area = 1/2×base×height
+      
+           - Output:
+      
+                  Print the calculated area of the triangle.
