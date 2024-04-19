@@ -85,7 +85,7 @@
 
   # Readme for dictionary file
 
-* Features:
+  * Features:
   
       - Add Contact:
   
@@ -98,3 +98,22 @@
      - Display Contacts:
        
                   Print the updated contact list, showing each contact's name, phone number, and email address.
+
+
+# Readme for even_odd file 
+
+     * Features:
+     
+            - Number Input:
+            
+                        Prompt the user to enter a number.
+                        
+            - Odd-Even Check:
+            
+                        Check if the entered number is divisible by 2.
+                        
+                        If the number is divisible by 2, it is considered even; otherwise, it is considered odd.
+                        
+            -  Output:
+            
+                        Print a message indicating whether the number is odd or even.
