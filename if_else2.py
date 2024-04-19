@@ -14,7 +14,7 @@ if height >= 120:
     else:
         price = 12
 
-    photo_taken = input("phtot khchoni? Y or N")
+    photo_taken = input("You wanna click picture? Y or N")
     if photo_taken.lower() == "y":
         price += 5
     print(f"Your final bill is ${price}")
