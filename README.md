@@ -120,16 +120,16 @@
 
 # Readme for formula file 
 
-     * Features:
+* Features:
       
-            - Input:
+      - Input:
       
-                   Prompt the user to enter the base and height of the triangle.
+            Prompt the user to enter the base and height of the triangle.
       
-           - Area Calculation:
+       - Area Calculation:
       
-                 - Calculate the area of the triangle using the formula:  Area = 1/2×base×height
+             Calculate the area of the triangle using the formula:  Area = 1/2×base×height
       
-           - Output:
+       - Output:
       
-                  Print the calculated area of the triangle.
+             Print the calculated area of the triangle.
