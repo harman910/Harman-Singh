@@ -49,3 +49,35 @@
 * Methods:
   
             Inherits sound() and displayinfo() methods from the cat class.
+
+# Readme for calculator file
+
+* Operations:
+
+     - Addition:
+       
+                  Adds the values of a and b.
+       
+     - Subtraction:
+       
+                  Subtracts the value of b from a.
+       
+     - Multiplication:
+       
+                  Multiplies the values of a and b.
+       
+     - Division:
+       
+                  Divides the value of a by b.
+       
+     - Modulus Operator (Remainder):
+       
+                  Returns the remainder of dividing a by b.
+       
+     - Exponential (Power):
+       
+                  Raises a to the power of b.
+       
+     - Floor Division:
+       
+                  Performs integer division, discarding any fractional remainder.
