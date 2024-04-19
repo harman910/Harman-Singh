@@ -102,18 +102,18 @@
 
 # Readme for even_odd file 
 
-     * Features:
+  * Features:
      
-            - Number Input:
+     - Number Input:
             
-                        Prompt the user to enter a number.
+       Prompt the user to enter a number.
                         
-            - Odd-Even Check:
+     - Odd-Even Check:
             
-                        Check if the entered number is divisible by 2.
+       Check if the entered number is divisible by 2.
                         
-                        If the number is divisible by 2, it is considered even; otherwise, it is considered odd.
+       If the number is divisible by 2, it is considered even; otherwise, it is considered odd.
                         
-            -  Output:
+     -  Output:
             
-                        Print a message indicating whether the number is odd or even.
+           Print a message indicating whether the number is odd or even.
