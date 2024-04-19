@@ -133,3 +133,17 @@
        - Output:
       
              Print the calculated area of the triangle.
+
+  # Readme for if_else file
+
+ * Features:
+   
+      - Number Comparison:
+        
+            Compares the values of a and b.
+        
+      - Output:
+        
+            If a is less than b, it prints "wow".
+        
+            Otherwise, it prints "false".
